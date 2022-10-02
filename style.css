@@ -25,6 +25,7 @@ button {
   font-family: bely, serif;
   border-radius: 20px;
   transition-duration: 0.5s;
+      font-size: 18px;
 }
 
 button:hover {
