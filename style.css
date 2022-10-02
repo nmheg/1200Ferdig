@@ -18,13 +18,12 @@ button {
   background-color: blanchedalmond;
   border: 5px;
   color: rgb(0, 0, 0);
-  padding: 15px 32px;
+  padding: 10px 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 25px;
   font-family: bely, serif;
-  border-radius: 30px;
+  border-radius: 20px;
   transition-duration: 0.5s;
 }
 
