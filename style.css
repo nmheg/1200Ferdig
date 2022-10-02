@@ -1,0 +1,41 @@
+body {
+    font-family: "Proxima Nova", Arial, Helvetica, sans-serif;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+header {
+    background-color: blanchedalmond;
+    padding: 50px;
+    text-align: center;
+    font-family: bely, serif;   
+}
+.header_navn {
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+}
+.header_under_tekst {
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+}
+button {
+  background-color: blanchedalmond;
+  border: 5px;
+  color: rgb(0, 0, 0);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  font-family: bely, serif;
+  border-radius: 30px;
+  transition-duration: 0.5s;
+}
+
+button:hover {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+
